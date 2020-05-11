@@ -23,7 +23,7 @@ cod_ccaa_cell = {'AN': 'Andalucía',
                  'RI': 'La Rioja'}
 
 # results_url = "https://covid19.isciii.es/resources/serie_historica_acumulados.csv"
-results_url = "../serie_historica_acumulados.csv"
+results_url = "../data/serie_historica_acumulados.csv"
 
 end_date_training = datetime.date(2020, 4, 15)
 end_date_testing = datetime.date(2020, 4, 30)
